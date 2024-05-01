@@ -11,3 +11,18 @@ p {
     font-size: 18px;
     color: #666;
 }
+
+        /* Style for the button */
+        .my-button {
+            background-color: #4CAF50; /* Green background color */
+            border: none; /* No border */
+            color: white; /* Text color */
+            padding: 10px 20px; /* Padding around the text */
+            border-radius: 5px; /* Rounded corners */
+            cursor: pointer; /* Change cursor on hover */
+        }
+
+        /* Hover effect */
+        .my-button:hover {
+            background-color: #45a049; /* Darker green on hover */
+        }
