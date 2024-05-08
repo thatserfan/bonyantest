@@ -26,3 +26,16 @@ p {
         .my-button:hover {
             background-color: #45a049; /* Darker green on hover */
         }
+
+        .yt-button {
+            background-color: #f00b0b; /* Green background color */
+            border: none; /* No border */
+            color: white; /* Text color */
+            padding: 10px 20px; /* Padding around the text */
+            border-radius: 5px; /* Rounded corners */
+            cursor: pointer; /* Change cursor on hover */
+        }
+
+        .yt-button:hover {
+            background-color: #990909; /* Darker green on hover */
+        }
