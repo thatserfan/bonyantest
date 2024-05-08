@@ -14,7 +14,7 @@ p {
 
         /* Style for the button */
         .my-button {
-            background-color: #4CAF50; /* Green background color */
+            background-color: #4c63af; /* Green background color */
             border: none; /* No border */
             color: white; /* Text color */
             padding: 10px 20px; /* Padding around the text */
@@ -24,7 +24,7 @@ p {
 
         /* Hover effect */
         .my-button:hover {
-            background-color: #45a049; /* Darker green on hover */
+            background-color: #4556a0; /* Darker green on hover */
         }
 
         .yt-button {
